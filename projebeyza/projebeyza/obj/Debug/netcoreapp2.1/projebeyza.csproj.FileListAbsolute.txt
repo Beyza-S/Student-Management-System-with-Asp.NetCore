@@ -1,0 +1,82 @@
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.deps.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.runtimeconfig.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.runtimeconfig.dev.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.dll
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.Views.dll
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.Views.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.csproj.AssemblyReference.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.AssemblyInfoInputs.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.AssemblyInfo.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.csproj.CoreCompileInputs.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorAssemblyInfo.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorAssemblyInfo.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.TagHelpers.input.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.TagHelpers.output.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorCoreGenerate.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorTargetAssemblyInfo.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorTargetAssemblyInfo.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.Views.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.dll
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.genruntimeconfig.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.csproj.CopyComplete
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.deps.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.runtimeconfig.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.runtimeconfig.dev.json
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.dll
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.Views.dll
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\bin\Debug\netcoreapp2.1\projebeyza.Views.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.csproj.AssemblyReference.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.AssemblyInfoInputs.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.AssemblyInfo.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.csproj.CoreCompileInputs.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorAssemblyInfo.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorAssemblyInfo.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.TagHelpers.input.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.TagHelpers.output.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorCoreGenerate.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index1.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorTargetAssemblyInfo.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.RazorTargetAssemblyInfo.cs
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.Views.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.dll
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.pdb
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.genruntimeconfig.cache
+C:\Users\nobbs\OneDrive\Masaüstü\asp.netcore projeleri\projebeyza\projebeyza\obj\Debug\netcoreapp2.1\projebeyza.csproj.CopyComplete
